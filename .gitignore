@@ -24,3 +24,6 @@ venv/
 
 # Windows 系统垃圾
 Thumbs.db
+
+# WorkBuddy AI 工作数据
+.workbuddy/
