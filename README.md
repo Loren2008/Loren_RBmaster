@@ -16,4 +16,6 @@
     │   ├── result1.png                # ROS2 item_demo 运行截图
     │   └── result2.png                # ROS2 节点与接口截图
     └── TaskB
+        ├── result1.png                # ROS2 Fibonacci 服务运行截图
+        └── result2.png                # ROS2 服务与接口截图
 ```
